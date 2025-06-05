@@ -27,6 +27,8 @@ Server started at http://127.0.0.1:8000
 
 Documentation at http://127.0.0.1:8000/docs
 
+Documentation at http://127.0.0.1:8000/redoc
+
 ```bash
 fastapi run main.py
 - starts the production server.
